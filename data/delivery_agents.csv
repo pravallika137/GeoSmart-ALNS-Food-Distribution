@@ -1,0 +1,6 @@
+agent_id,location_id,vehicle_type,capacity,available_from,available_until
+A1,L1,Bike,30,11:00,17:00
+A2,L2,Bike,40,11:00,17:00
+A3,L4,Scooter,25,11:30,17:30
+A4,L6,Van,60,11:00,18:00
+A5,L8,Van,50,12:00,18:00

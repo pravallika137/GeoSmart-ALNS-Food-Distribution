@@ -1,0 +1,12 @@
+donor_id,location_id,food_type,available_quantity,pickup_ready_time,expiry_time
+D1,L1,Prepared_Food,40,11:00,14:00
+D2,L2,Bakery_Food,25,11:30,15:00
+D3,L3,Bakery_Food,30,12:00,16:00
+D4,L4,Prepared_Food,35,11:00,14:30
+D5,L5,Prepared_Food,50,12:30,16:00
+D6,L6,Prepared_Food,45,11:30,15:30
+D7,L7,Prepared_Food,30,12:00,15:00
+D8,L8,Prepared_Food,20,11:00,14:00
+D9,L9,Prepared_Food,25,12:00,15:30
+D10,L10,Prepared_Food,40,11:30,15:30
+D11,L11,Prepared_Food,35,12:30,17:00
